@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Codxel
-- 👀 I’m interested in programing games and webs
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Weimar Ustarez Rivera, aka Codxel.
 
-<!---
-Codxel/Codxel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Python Developer interested into Artificial Inteligence, from the ETL to the ML, I'm specialized on Data Science.
+I'm ready to collaborate and learn about the best practices code the future of the technology and computers.
+
+Contact me on weimar.ustarezrivera@gmail.com
